@@ -1,0 +1,7 @@
+#Mon Nov 13 19:39:41 KST 2017
+base.0=/Users/yeongbinlim/Desktop/MyApplication5/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_58f4fd328509fefa7b4beb9dcd424895a36ac910
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/yeongbinlim/Desktop/MyApplication5/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_cd126bd05377f0265e4aca79ae03a16f8d783609/classes.dex
+base.1=/Users/yeongbinlim/Desktop/MyApplication5/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_cd126bd05377f0265e4aca79ae03a16f8d783609
+file.0=/Users/yeongbinlim/Desktop/MyApplication5/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_58f4fd328509fefa7b4beb9dcd424895a36ac910/classes.dex

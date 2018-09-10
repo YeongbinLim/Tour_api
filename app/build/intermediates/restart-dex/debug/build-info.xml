@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="23"
+    build-mode="FULL"
+    density="xxhdpi"
+    format="10"
+    plugin-version="2.3.3"
+    timestamp="1510569574471"
+    token="7355662746141182654"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="1209" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="1234" />
+    <task
+        name="verifier"
+        duration="200" />
+
+    <artifact
+        location="/Users/yeongbinlim/Desktop/MyApplication5/app/build/outputs/apk/app-debug.apk"
+        type="SPLIT_MAIN" />
+
+    <build
+        build-mode="FULL"
+        timestamp="1510569574471"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/yeongbinlim/Desktop/MyApplication5/app/build/outputs/apk/app-debug.apk"
+            type="SPLIT_MAIN" />
+    </build>
+
+</instant-run>
